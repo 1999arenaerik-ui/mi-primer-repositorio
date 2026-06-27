@@ -2,11 +2,11 @@
 
 Bienvenido a este repositorio de práctica.
 
-## Descripcion
+## Descripción
 
 Este proyecto es un espacio para aprender a usar Git y GitHub: crear ramas, hacer commits y abrir pull requests.
 
-## Como empezar
+## Cómo empezar
 
 1. Clona el repositorio
 2. Crea una rama nueva
